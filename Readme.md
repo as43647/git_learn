@@ -13,8 +13,10 @@
 # 如果有不想提交的檔案-->建立.gitignore檔案並寫入不想提交的檔案
 
 # 範例push
-# git remote add origin https://github.com/as43647/git_learn.git
+# git remote add origin(這裡代表遠端的名稱) https://github.com/as43647/git_learn.git
 # git branch -M main
-# git push -u origin main 
+# git push -u origin(這裡代表遠端的名稱) main 
 
 # git push 
+# git checkout -b (new branch name)
+# git push origin(這裡代表遠端的名稱) (new branch name)
