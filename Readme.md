@@ -1,6 +1,7 @@
 # git --version
 # git config --global user.name "your name"
 # git config --global user.email "your email"
+# git init
 # git status
 # git add (file name) # git add .
 # git commit -m "message"
